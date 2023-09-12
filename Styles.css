@@ -7,4 +7,9 @@
 }
 .profile{
     border-radius: 50%;
+    border: solid 5px black;
 }
+/* hr{
+    border-style: dotted none none;
+    width: 30%;
+} */
